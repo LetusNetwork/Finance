@@ -16,3 +16,5 @@ Aquí encontrarás información con ejemplos de cómo optimizar tu vida financie
 **0_** Acepta pagos
 
 **1_** Como ahorrar
+
+**2_** Financiamiento
